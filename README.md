@@ -1,6 +1,6 @@
 http://benja135.xyz/blog/lejos-communication-bluetooth-entre-nxt
 
-Communication Bluetooth entre plusieurs robots NXT mindstorms avec un PC maitre.
+Communication Bluetooth entre plusieurs robots NXT mindstorms avec un PC maitre. Fonctionne avec NXJ LejOS.
 
 ##### Fonctionnement de « NXTs Chat »
 
